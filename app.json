@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "scheme": "acme",
+    "web": {
+      "bundler": "metro"
+    },
+    "name": "supreme-jobs",
+    "slug": "supreme-jobs"
+  }
+}
